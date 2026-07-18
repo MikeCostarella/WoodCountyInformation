@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Beacon (Schneider Geospatial)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Wood County (Official Site)", category: "Government", subcategory: "County", url: "https://www.co.wood.oh.us/", description: "Official Wood County government website — offices, departments, and services." },
